@@ -1,9 +1,9 @@
 # Olá | Hello 👋
 
-## Sobre mim | About me
-- Olá, meu nome é Paulo Lafayette, tenho 18 anos e atualmente curso ciência da computação na Éstacio. Desde criança sempre fui apaixonado por tecnologia e video games, então desenvolvi um interesse muito grande por programação e futuramente desejo me tornar um dev back-end.
-
-- Hi there, my name is Paulo Lafayette, I'm 18 years old, and I'm currently studying Computer Science at Éstacio. Since I was a child, I've always been passionate about technology and video games, so I developed a strong interest in programming and aspire to become a back-end developer.
+## Sobre mim
+- Olá, meu nome é Paulo Lafayette, tenho 18 anos e atualmente curso ciência da computação. Desde a infância sempre fui apaixonado por tecnologia e video games, então desenvolvi um interesse muito grande por programação, minha meta é me tornar um desenvolvedor back-end futuramente.
+## About me
+- Hi there, my name is Paulo Lafayette, I'm 18 years old, and I'm currently studying Computer Science. Since childhood, I've always been passionate about technology and video games, so I developed a strong interest in programming, my goal is to become a back-end developer.
 
 ## Atualmente estudando | Currently studying 📚
 
